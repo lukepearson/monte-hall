@@ -1,0 +1,14 @@
+{
+  "name": "monte-hall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.4"
+  },
+  "scripts": {
+    "start": "tsc index.ts && node index",
+    "lint": "tslint index.ts"
+  }
+}
