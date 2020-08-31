@@ -123,4 +123,4 @@ function run(num: number) {
   logResults(rounds);
 }
 
-run(100_000_0);
+run(1_000_000);
